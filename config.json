@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-book-catalog",
+      "title": "FastAPI SQLite Book Catalog",
+      "description": "Building a beginner-friendly REST API with FastAPI, SQLModel, and SQLite persistence",
+      "path": "assignments/fastapi-sqlite-book-catalog",
+      "dueDate": "2026-05-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
